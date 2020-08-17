@@ -36,3 +36,4 @@ console.log(verdict);
 // have a couple of different ideas about this one, think it will be Lead Pipe over Candle Stick
 // but if i am wrong I do think I know why
 // I was wrong again, should have gone with gut instinct on this one, I think it's something to do with hoisting?
+// in retrospect I don't think it can be to do with hoisting as none of the functions are named
