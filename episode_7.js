@@ -25,3 +25,5 @@ const verdict = declareMurderer();
 console.log(verdict);
 
 // outcome will be Miss Scarlet, plotTwist reassignment only has function scope
+// was Mr Green, I guess this is because plotTwist is called last but only has function scope?? so it overwrites the reassignment from unexpectedOutcome, but then has no scope outside the function??
+// I'm really not sure on this one though....
