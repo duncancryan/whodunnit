@@ -37,3 +37,5 @@ console.log(verdict);
 // but if i am wrong I do think I know why
 // I was wrong again, should have gone with gut instinct on this one, I think it's something to do with hoisting?
 // in retrospect I don't think it can be to do with hoisting as none of the functions are named
+// think I get this one, unexpected outcome only defined and called in plot twist, therefore colonel mustard set first (before UO even defined)
+// then when UO is defined and called as part of plot twist, it is colonel mustard... 
